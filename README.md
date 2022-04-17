@@ -14,3 +14,6 @@ git branch -a // 查看所有分支
    --- branch_b
    --- branch_c
 
+# 分支合并主分支的变更
+- 切换到分支，git checkout branch_a
+- 执行merge操作，git merge main
