@@ -8,7 +8,7 @@ git checkout -b [branch-name]
 git branch -a // 查看所有分支
 
 # 相关分支
----master
+---main
    |
    --- branch_a
    --- branch_b
